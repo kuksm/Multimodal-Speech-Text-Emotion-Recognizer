@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+*.env
+.env
+*.sqlite3
+*.db
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Data / Output
+output/
+results/
+img/
+
